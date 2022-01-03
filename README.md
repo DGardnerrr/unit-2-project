@@ -1,12 +1,6 @@
 # unit-2-project
 
-Technologies Used 
-IntelliJ
-Spring Boot
-Maven
-postgres
-pgAdmin
-Postman 
+Technologies Used: IntelliJ, Spring Boot,Maven,postgres,pgAdmin, Postman 
 
 
 User Stories
