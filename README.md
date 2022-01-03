@@ -8,6 +8,8 @@ Endpoints:
 
 Request Type:
 
+
+
 Books
 GET/API/books, Url: "/book", 
 
@@ -31,6 +33,10 @@ PUT api/books/1/genres/1, Url: "books/1/genres/1"
 DELETE api/books/1/genres/1, Url: "books/1/genres/1"
 
 
+
+
+
+
 Publishers:
 GET /api/books/1/publishers,  Url: "books/1/publishers"
 
@@ -39,6 +45,10 @@ POST /api/books/1/publishers, Url: "books/1/publishers"
 PUT api/books/1/publishers/1, Url: "books/1/publishers/1"
 
 DELETE api/books/1/publishers/1, Url:"books/1/publishers"
+
+
+
+
 
 
 Authors
@@ -52,11 +62,14 @@ DELETE /api/books/1/authors/1, Url: "books/1/authors/1"
 
 User Stories
 
+
 Book Model
 As a user, I should be able to create new search catalog for a book.
 As a user, I should be able to read the book.
 As a user, I should be able to update the book.
 As a user, I should be able to delete a book.
+
+
 
 
 Genre Model
@@ -66,11 +79,15 @@ As a user, I should be able to update a genre.
 As a user, I should be able to delete a genre.
 
 
+
+
 Author Model
 As a user, I should be able to create new search catalog for the author.
 As a user, I should be able to read who is the author.
 As a user, I should be able to update catalog of author.
 As a user, I should be able to delete the current author in the catalog.
+
+
 
 
 Publisher Model
