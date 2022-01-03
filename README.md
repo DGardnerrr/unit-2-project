@@ -10,7 +10,7 @@ Request Type:
 
 
 
-Books
+(Books)
 GET/API/books, Url: "/book", 
 
 POST /api/books/1, Url: "books/1"
@@ -23,7 +23,7 @@ GET /api/books/1/authors, Url: "books/1/authors"
 
 POST /api/books/1/authors/1, Url: "books/1/authors/1"
 
-Genres  
+(Genres) 
 GET api/books/1/genres, Url: "books/1/genres"
 
 POST api/books/1/genres/1, Url: "books/1/genres/1"
@@ -37,7 +37,7 @@ DELETE api/books/1/genres/1, Url: "books/1/genres/1"
 
 
 
-Publishers:
+(Publishers)
 GET /api/books/1/publishers,  Url: "books/1/publishers"
 
 POST /api/books/1/publishers, Url: "books/1/publishers"
@@ -51,7 +51,7 @@ DELETE api/books/1/publishers/1, Url:"books/1/publishers"
 
 
 
-Authors
+(Authors)
 POST /api/books/1/authors/1,  Url:"books/1/publishers"
 
 PUT /api/books/1/authors/1, Url: "books/1/authors/1"
