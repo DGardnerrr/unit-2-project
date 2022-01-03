@@ -63,7 +63,7 @@ DELETE /api/books/1/authors/1, Url: "books/1/authors/1"
 User Stories
 
 
-Book Model
+[Book Model]
 As a user, I should be able to create new search catalog for a book.
 As a user, I should be able to read the book.
 As a user, I should be able to update the book.
@@ -72,7 +72,7 @@ As a user, I should be able to delete a book.
 
 
 
-Genre Model
+[Genre Model]
 As a user, I should be able to create new search a genre.
 As a user, I should be able to read a genre.
 As a user, I should be able to update a genre.
@@ -81,7 +81,7 @@ As a user, I should be able to delete a genre.
 
 
 
-Author Model
+[Author Model]
 As a user, I should be able to create new search catalog for the author.
 As a user, I should be able to read who is the author.
 As a user, I should be able to update catalog of author.
@@ -90,7 +90,7 @@ As a user, I should be able to delete the current author in the catalog.
 
 
 
-Publisher Model
+[Publisher Model]
 As a user, I should be able to create a new search catalog for the publisher.
 As a user, I should be able to read who is the publisher
 As a user, I should be able to update catalog of publisher.
