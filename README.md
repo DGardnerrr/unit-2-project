@@ -1,6 +1,6 @@
 # unit-2-project
 
-Technologies Used: IntelliJ, Spring Boot,Maven,postgres,pgAdmin, Postman 
+Technologies Used: IntelliJ, ERD Tool, Spring Boot,Maven,postgres,pgAdmin, Postman 
 
 Project description: Created REST Api for database of a book website. The REST API will allow the User to keep track of their Books, Genres, Authors, and  Publishers.
 
