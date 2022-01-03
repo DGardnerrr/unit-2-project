@@ -2,7 +2,7 @@
 
 Technologies Used: IntelliJ, Spring Boot,Maven,postgres,pgAdmin, Postman 
 
-Project description: created rest api for a book website. 
+Project description: Created REST Api for database of a book website. The REST API will allow the User to keep track of their Books, Genres, Authors, and  Publishers.
 
 Endpoints: 
 Request Type:
@@ -72,8 +72,11 @@ As a user, I should be able to update catalog of author.
 As a user, I should be able to delete the current author in the catalog.
 
 
+
+
+
 Publisher Model
-As a user, I should be able to create a new search ctalog for the publisher.
+As a user, I should be able to create a new search catalog for the publisher.
 As a user, I should be able to read who is the publisher
 As a user, I should be able to update catalog of publisher.
 As a user, I should be able to delete the current publisher in the catalog.
