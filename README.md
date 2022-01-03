@@ -21,5 +21,4 @@ Publisher
 
 
 Timeline 
-Day 1 
-Use Maven to download and build all of the dependencies, set up Spring Boot, set up dev environment, Created controllers
+Day 1 - Use Maven to download and build all of the dependencies, set up Spring Boot, set up dev environment, Created controllers
