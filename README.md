@@ -11,9 +11,9 @@ Request Type:
 
 
 (Books)
-[GET] endpoint: "/api/book" - Get all Books - Request Type: None
+[GET] endpoint: "/api/book" - Get all Books  - Request Type: None
 
-[GET] endpoint: "/api/books/{bookId}" - Request Type: None *
+[GET] endpoint: "/api/books/{bookId}" - Get a single book - Request Type: None *
 
 [POST]  endpoint: "/api/books/1" - Creating a Single Book -  Request Body: book info
 
@@ -27,7 +27,7 @@ Request Type:
 (Genres) 
 [GET] endpoint: "/api/books/1/genres" - Get all Genres- Request Body: None 
 
-[GET] endpoint: "/api/genres/{genreId}" - Request Type: None *
+[GET] endpoint: "/api/genres/{genreId}" - Get single genre - Request Type: None *
 
 [POST]  endpoint: "/api/books/1/genres/1" - Create a Single Genre - Request Body: genre info
 
@@ -41,7 +41,7 @@ Request Type:
 (Publishers)
 [GET] endpoint: "/api/books/1/publishers" - Get all Publishers - Request Type: None
 
-[GET] endpoint: "/api/publishers/{publisherId}" - Request Type: None *
+[GET] endpoint: "/api/publishers/{publisherId}" - Get a single publisher - Request Type: None *
 
 [POST]endpoint: "/api/books/1/publishers" - Create a Single Publisher - Request Type: publisher info
 
@@ -55,9 +55,9 @@ Request Type:
 
 [GET] endpoint: "/api/authors" - Get all authors - Request Type: None
 
-[GET] endpoint: "/api/authors/{authorId}" - Request Type: None *
+[GET] endpoint: "/api/authors/{authorId}" - Get a single author - Request Type: None *
 
-[POST] endpoint: "/api/books/1/authors/1" - Get a Single Author - Request Type: author info
+[POST] endpoint: "/api/books/1/authors/1" - Create a single author - Request Type: author info
 
 [PUT] endpoint: "/api/books/1/authors/1" - 	Update a Single Author - Request Type: author info
 
