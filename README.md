@@ -1,6 +1,6 @@
 # unit-2-project
 
-Technologies Used: IntelliJ, ERD Tool, Spring Boot,Maven,postgres,pgAdmin, Postman 
+Technologies Used: IntelliJ, ERD Tool/Lucidchart, Spring Boot,Maven,postgres,pgAdmin, Postman 
 
 Project description: Created REST Api for database of a book app. The REST API will allow the User to keep track of their Books, Genres, Authors, and  Publishers.
 
@@ -100,6 +100,10 @@ As a user, I should be able to create a new search catalog for the publisher.
 As a user, I should be able to read who is the publisher
 As a user, I should be able to update catalog of publisher.
 As a user, I should be able to delete the current publisher in the catalog.
+
+
+ERD Diagram Link 
+https://lucid.app/lucidchart/f625e5d0-3422-4928-8224-e278f466f0c2/edit?invitationId=inv_92add0b3-91da-436e-9021-e70908a888ff
 
 
 Timeline 
