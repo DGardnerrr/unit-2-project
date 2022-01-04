@@ -6,7 +6,7 @@ Project description: Created REST Api for database of a book website. The REST A
 
 Endpoints: 
 
-Request Type:
+
 
 
 
