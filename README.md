@@ -10,7 +10,7 @@ Request Type:
 
 
 
-(Books)
+(1.Books)
 [GET] endpoint: "/api/book" - Get all Books  - Request Type: None
 
 [GET] endpoint: "/api/books/{bookId}" - Get a single book - Request Type: None *
@@ -24,7 +24,7 @@ Request Type:
 
 
 
-(Genres) 
+(2.Genres) 
 [GET] endpoint: "/api/books/1/genres" - Get all Genres- Request Body: None 
 
 [GET] endpoint: "/api/genres/{genreId}" - Get single genre - Request Type: None *
@@ -38,7 +38,7 @@ Request Type:
 
 
 
-(Publishers)
+(3.Publishers)
 [GET] endpoint: "/api/books/1/publishers" - Get all Publishers - Request Type: None
 
 [GET] endpoint: "/api/publishers/{publisherId}" - Get a single publisher - Request Type: None *
@@ -51,7 +51,7 @@ Request Type:
 
 
 
-(Authors)
+(4.Authors)
 
 [GET] endpoint: "/api/authors" - Get all authors - Request Type: None
 
