@@ -11,7 +11,7 @@ Endpoints:
 
 
 (1.Books)
-[GET] endpoint: "/api/book" - Get all Books  - Request Type: None
+[GET] endpoint: "/api/books" - Get all Books  - Request Type: None
 
 [GET] endpoint: "/api/books/{bookId}" - Get a single book - Request Type: None *
 
@@ -52,8 +52,8 @@ Endpoints:
 
 
 (4.Authors)
-
-[GET] endpoint: "/api/authors" - Get all authors - Request Type: None
+ 
+[GET] endpoint: "/api/books/1/authors/1" - Get all authors - Request Type: None 
 
 [GET] endpoint: "/api/authors/{authorId}" - Get a single author - Request Type: None *
 
