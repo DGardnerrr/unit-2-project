@@ -11,40 +11,37 @@ Request Type:
 
 
 (Books)
-GET/API/books, Url: "/book", 
+[GET]/API/books, endpoint: "/api/book" - Get all Books
 
-POST /api/books/1, Url: "books/1"
+[POST] /api/books/1, endpoint: "/api/books/1" - Creating a Single Book
 
-PUT /api/books/1, Url: "books/1"
+[PUT] /api/books/1, endpoint: "/api/books/1" - Updating Single Book
 
-DELETE /api/books/1, Url: "books/1"
+[DELETE] /api/books/1, endpoint: "/api/books/1" - Delete Single Book
 
-GET /api/books/1/authors, Url: "books/1/authors"
 
-POST /api/books/1/authors/1, Url: "books/1/authors/1"
+
 
 (Genres) 
-GET api/books/1/genres, Url: "books/1/genres"
+[GET] api/books/1/genres, endpoint: "/api/books/1/genres" - Get all Genres
 
-POST api/books/1/genres/1, Url: "books/1/genres/1"
+[POST] api/books/1/genres/1, endpoint: "/api/books/1/genres/1" - Create a Single Genre
 
-PUT api/books/1/genres/1, Url: "books/1/genres/1"
+[PUT] api/books/1/genres/1, endpoint: "/api/books/1/genres/1" - Update a Single Genre
 
-DELETE api/books/1/genres/1, Url: "books/1/genres/1"
-
-
+[DELETE] api/books/1/genres/1, endpoint: "/api/books/1/genres/1" - Delete a Single Genre
 
 
 
 
 (Publishers)
-GET /api/books/1/publishers,  Url: "books/1/publishers"
+[GET] /api/books/1/publishers,  endpoint: "/api/books/1/publishers" - Get all Publishers
 
-POST /api/books/1/publishers, Url: "books/1/publishers"
+[POST]/api/books/1/publishers, endpoint: "/api/books/1/publishers" - Create a Single Publisher
 
-PUT api/books/1/publishers/1, Url: "books/1/publishers/1"
+[PUT] api/books/1/publishers/1, endpoint: "/api/books/1/publishers/1" - Update a Single Publisher
 
-DELETE api/books/1/publishers/1, Url:"books/1/publishers"
+[DELETE] api/books/1/publishers/1, endpoint:"/api/books/1/publishers" - Delete a Single Publisher
 
 
 
@@ -52,11 +49,11 @@ DELETE api/books/1/publishers/1, Url:"books/1/publishers"
 
 
 (Authors)
-POST /api/books/1/authors/1,  Url:"books/1/publishers"
+[POST] /api/books/1/authors/1,  Url:"/api/books/1/authors/1" - Get a Single Author
 
-PUT /api/books/1/authors/1, Url: "books/1/authors/1"
+[PUT] /api/books/1/authors/1, Url: "/api/books/1/authors/1" - 	Update a Single Author
 
-DELETE /api/books/1/authors/1, Url: "books/1/authors/1"
+[DELETE] /api/books/1/authors/1, Url: "/api/books/1/authors/1" - Delete a Single Author
 
 
 
